@@ -5,6 +5,8 @@ gem 'unicorn'
 gem 'jquery-rails'
 gem 'spring',        group: :development
 gem 'bcrypt', '~> 3.1.7'
+gem 'turbolinks'
+gem 'jbuilder'
 
 group :assets do
   gem 'sass-rails', '~> 4.0.3'
